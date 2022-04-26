@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bardia
-- 👀 I’m interested in meking genome-scale metabolic model
+- 👀 I’m interested in building mathematical modelling to predict microbial growth.
 - 🌱 I’m currently learning about RAVEN toolbox.
 
 
