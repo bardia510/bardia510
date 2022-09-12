@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bardia
-- 👀 I’m interested in building mathematical modelling to predict microbial growth.
+- 👀 I’m interested in building mathematical models to predict microbial growth.
 - 
 
 
